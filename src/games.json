@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=400&auto=format&fit=crop",
+    "tags": ["Numbers", "Strategy", "Classic"]
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris on a hexagon.",
+    "category": "Puzzle",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400&auto=format&fit=crop",
+    "tags": ["Hexagon", "Matching", "Fast"]
+  },
+  {
+    "id": "geometry-dash-lite",
+    "title": "Geometry Jump",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "category": "Action",
+    "iframeUrl": "https://scratch.mit.edu/projects/230113264/embed",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=400&auto=format&fit=crop",
+    "tags": ["Rhythm", "Hard", "Side-scroller"]
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball in the 3D running game in Space.",
+    "category": "Arcade",
+    "iframeUrl": "https://vcl-unofficial.github.io/slope/",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=400&auto=format&fit=crop",
+    "tags": ["3D", "Ball", "Speed"]
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump, jump, jump to the top!",
+    "category": "Platform",
+    "iframeUrl": "https://doodle-jump.io/game/",
+    "thumbnail": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?q=80&w=400&auto=format&fit=crop",
+    "tags": ["Simple", "Infinite", "Fun"]
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The classic bird flapping game that everyone loves to hate.",
+    "category": "Arcade",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1605898835373-02f741d5836a?q=80&w=400&auto=format&fit=crop",
+    "tags": ["Bird", "Score", "Classic"]
+  }
+]
